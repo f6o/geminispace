@@ -1,3 +1,9 @@
 # gemini.noorbeh.com
 
+## links
+
 => uiua.gmi
+
+## diary
+
+* 2023-11-07 githubのgistに書き込みした内容を自動更新できるようにしてみた。
