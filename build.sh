@@ -1,2 +1,2 @@
-git pull master origin
+git pull
 cp -p $HOME/gemini-homepage/*.gmi /var/gemini
