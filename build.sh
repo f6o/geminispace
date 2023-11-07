@@ -1,2 +1,3 @@
+cd $HOME/gemini-homepage
 git pull
-cp -vp $HOME/gemini-homepage/*.gmi /var/gemini
+cp -vp ./*.gmi /var/gemini
