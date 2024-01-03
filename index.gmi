@@ -1,5 +1,13 @@
 # Liberated (gemini) World
 
+## 2024-01-03 サイト内検索
+
+自分のサイトに検索機能をつけてみた。何も設定せずとも、日本語も検索されてそう。
+Hugoでraw htmlをあつかうのはちょっと工夫がいるみたい。
+
+=> https://pagefind.app/docs/
+=> https://anaulin.org/blog/hugo-raw-html-shortcode/
+
 ## 2023-12-27 ニコニコ動画
 
 仕事納めの日。雪が20-30cmくらいは積もった。ここ数日の予報はくもりで、そこまで寒い気温でもなさそう。
