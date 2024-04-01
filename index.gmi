@@ -1,5 +1,24 @@
 # Liberated (gemini) World
 
+## 2024-04-01 新年度
+
+いろいろ生活がかわったり、もとにもどったり。
+
+最近はBuild Your Own Lispをよんでいる。
+SICPと内容的には近いけど、CでLispを書くのはやってないからリハビリとしていい。
+
+=> https://www.buildyourownlisp.com/
+
+ガロアの夢は、文庫だったけどおもしろい本だった。
+群論もやりなおしたいなとおもっていくつか本をよんでみる。
+
+=> https://www.chikumashobo.co.jp/product/9784480512239/
+=> https://www.maruzen-publishing.co.jp/item/b294258.html
+=> https://link.springer.com/book/10.1007/978-1-4757-4034-9
+=> https://www.nippyo.co.jp/shop/book/7459.html
+
+そろそろアリス本の続きもやりたい。
+
 ## 2024-01-31 ひさしぶり
 
 ちょっと自分の体調も悪かったのと家族の体調も思わしくなかった。
